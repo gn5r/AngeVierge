@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AngeVierge</string>
+    <string name="twitter_consumer_key">A2RYjSIVBPhvLfESn9gwz424Z</string>
+    <string name="twitter_consumer_secret">n7kI7Kkn0Ba8ZSqLKDXxwlgrmOSJ0e950q5UX8u1WUXZUtmYT3</string>
+    <string name="twitter_callback_url">via.gn5r://twitter</string>
+</resources>
